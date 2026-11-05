@@ -1,0 +1,685 @@
+{
+ "profile": {
+  "first": "Faizal",
+  "last": "Kusuma",
+  "name": "Faizal Kusuma",
+  "title": "Video Editor · Videographer · Content Producer · Filmmaker",
+  "title_en": "Video Editor · Videographer · Content Producer · Filmmaker",
+  "about": "Saya video editor, videographer, content producer, dan filmmaker dengan pengalaman 4+ tahun di konten komersial, kampanye digital, branded content, sosial media, dan film independen. Kerja saya ada di antara storytelling dan strategi: mencari bahasa visual yang pas supaya sebuah ide bukan cuma enak dilihat, tapi juga nyambung dengan penontonnya. Lulusan Film/Video Universitas Dian Nuswantoro (2019–2023).",
+  "about_en": "I am a video editor, videographer, content producer and filmmaker with 4+ years of experience across commercial content, digital campaigns, branded content, social media and independent film. My work sits between storytelling and strategy, finding the right visual language so an idea not only looks good but connects with its audience. Film/Video graduate of Universitas Dian Nuswantoro (2019–2023).",
+  "photo": "profil.jpg",
+  "wa": "",
+  "waText": "",
+  "ig": "icangism",
+  "email": "fzkusuma16@gmail.com",
+  "site": "https://faizalkusuma16.github.io"
+ },
+ "works": [
+  {
+   "id": "mb-hemat",
+   "title": "Semakin Hemat, Semakin Rekat di Negeri Orang",
+   "title_en": "Saving More, Closer Abroad",
+   "year": "2025",
+   "cat": "Digital Video Commercial",
+   "sub": "",
+   "brand": "Master Bagasi",
+   "desc": "Digital video commercial Master Bagasi untuk diaspora Indonesia: dari konsep, shooting, sampai final edit.",
+   "desc_en": "Master Bagasi digital video commercial for the Indonesian diaspora, from concept and shoot to final edit.",
+   "link": "https://www.youtube.com/watch?v=F_TpPaLrR8s",
+   "media": [
+    {
+     "a": "mb_dvc_hemat.jpg",
+     "t": "img",
+     "w": 1280,
+     "h": 720
+    }
+   ]
+  },
+  {
+   "id": "mb-kangen",
+   "title": "Solusi Kangen Makanan Indonesia",
+   "title_en": "The Cure for Missing Indonesian Food",
+   "year": "2025",
+   "cat": "Digital Video Commercial",
+   "sub": "",
+   "brand": "Master Bagasi",
+   "desc": "DVC tentang diaspora yang kangen makanan rumah tanpa perlu keluar rumah.",
+   "desc_en": "A DVC about diaspora missing home food without leaving the house.",
+   "link": "https://www.youtube.com/watch?v=Br0FgN7rp_o",
+   "media": [
+    {
+     "a": "mb_dvc_kangen.jpg",
+     "t": "img",
+     "w": 640,
+     "h": 360
+    }
+   ]
+  },
+  {
+   "id": "mb-merdeka",
+   "title": "Rayakan Kemerdekaan di Manapun Berada",
+   "title_en": "Celebrate Independence Wherever You Are",
+   "year": "2025",
+   "cat": "Digital Video Commercial",
+   "sub": "",
+   "brand": "Master Bagasi",
+   "desc": "Kampanye 17 Agustus Master Bagasi untuk orang Indonesia di luar negeri.",
+   "desc_en": "Master Bagasi Independence Day campaign for Indonesians abroad.",
+   "link": "https://www.youtube.com/watch?v=t_aW9gZzItw",
+   "media": [
+    {
+     "a": "mb_dvc_merdeka.jpg",
+     "t": "img",
+     "w": 640,
+     "h": 360
+    }
+   ]
+  },
+  {
+   "id": "mb-bolehkah",
+   "title": "Bolehkah Aku Pergi?",
+   "title_en": "May I Leave?",
+   "year": "2025",
+   "cat": "Digital Video Commercial",
+   "sub": "",
+   "brand": "Master Bagasi",
+   "desc": "DVC bergaya film pendek tentang keputusan merantau dan keluarga yang ditinggalkan.",
+   "desc_en": "A short-film style DVC about leaving home and the family left behind.",
+   "link": "https://www.youtube.com/watch?v=aXu_tLIU6so",
+   "media": [
+    {
+     "a": "mb_dvc_bolehkah.jpg",
+     "t": "img",
+     "w": 640,
+     "h": 360
+    }
+   ]
+  },
+  {
+   "id": "mb-jauh",
+   "title": "Indonesia Nggak Pernah Jauh",
+   "title_en": "Indonesia Is Never Far",
+   "year": "2025",
+   "cat": "Digital Video Commercial",
+   "sub": "",
+   "brand": "Master Bagasi",
+   "desc": "DVC emosional tentang rasa dekat dengan Indonesia dari negeri orang.",
+   "desc_en": "An emotional DVC about feeling close to Indonesia from abroad.",
+   "link": "https://www.youtube.com/watch?v=nYheiWPbSSk",
+   "media": [
+    {
+     "a": "mb_dvc_jauh.jpg",
+     "t": "img",
+     "w": 640,
+     "h": 360
+    }
+   ]
+  },
+  {
+   "id": "mb-pod-paris",
+   "title": "Dari Pramugari, Bangun Resto Indonesia di Paris",
+   "title_en": "From Flight Attendant to an Indonesian Restaurant in Paris",
+   "year": "2025",
+   "cat": "Podcast & Vlog",
+   "sub": "",
+   "brand": "Master Bagasi",
+   "desc": "Podcast diaspora \"Indonesians in France\" bersama Anie Kece.",
+   "desc_en": "Diaspora podcast \"Indonesians in France\" with Anie Kece.",
+   "link": "https://www.youtube.com/watch?v=AWmVZuk3sSs&t=888s",
+   "media": [
+    {
+     "a": "mb_pod_paris.jpg",
+     "t": "img",
+     "w": 1280,
+     "h": 720
+    }
+   ]
+  },
+  {
+   "id": "mb-pod-finlandia",
+   "title": "Kisah Sukses Diaspora: CEO PT Sinergi Finlandia Indonesia",
+   "title_en": "Diaspora Success Story: CEO of PT Sinergi Finlandia Indonesia",
+   "year": "2025",
+   "cat": "Podcast & Vlog",
+   "sub": "",
+   "brand": "Master Bagasi",
+   "desc": "Podcast kisah sukses diaspora Indonesia di Finlandia.",
+   "desc_en": "Podcast on an Indonesian diaspora success story in Finland.",
+   "link": "https://youtu.be/1CoIwjNIGao",
+   "media": [
+    {
+     "a": "mb_pod_finlandia.jpg",
+     "t": "img",
+     "w": 640,
+     "h": 360
+    }
+   ]
+  },
+  {
+   "id": "mb-vlog-bekas",
+   "title": "Surga Barang Bekas di Jepang",
+   "title_en": "Japan's Second-Hand Paradise",
+   "year": "2025",
+   "cat": "Podcast & Vlog",
+   "sub": "",
+   "brand": "Master Bagasi",
+   "desc": "Vlog #KaryaIndonesiaJejakDunia: berburu barang bekas murah di Jepang.",
+   "desc_en": "#KaryaIndonesiaJejakDunia vlog: hunting cheap second-hand finds in Japan.",
+   "link": "https://www.youtube.com/watch?v=E1uPxngzaAQ&t=315s",
+   "media": [
+    {
+     "a": "mb_vlog_bekas.jpg",
+     "t": "img",
+     "w": 1280,
+     "h": 720
+    }
+   ]
+  },
+  {
+   "id": "mb-vlog-thrift",
+   "title": "Thrifting Tokyo Flea Market",
+   "title_en": "Thrifting at a Tokyo Flea Market",
+   "year": "2025",
+   "cat": "Podcast & Vlog",
+   "sub": "",
+   "brand": "Master Bagasi",
+   "desc": "Vlog thrifting di flea market Tokyo, murah dan wajib tahu.",
+   "desc_en": "A thrifting vlog at a Tokyo flea market.",
+   "link": "https://www.youtube.com/watch?v=wU5AlViSDk0&t=970s",
+   "media": [
+    {
+     "a": "mb_vlog_thrift.jpg",
+     "t": "img",
+     "w": 640,
+     "h": 360
+    }
+   ]
+  },
+  {
+   "id": "mb-vlog-paris",
+   "title": "Di Paris Ada Parfum Bau Koran?",
+   "title_en": "A Newspaper-Scented Perfume in Paris?",
+   "year": "2025",
+   "cat": "Podcast & Vlog",
+   "sub": "",
+   "brand": "Master Bagasi",
+   "desc": "Vlog jalan-jalan unik di Paris: parfum bau koran, kartu remi, sampai bau perang.",
+   "desc_en": "A quirky Paris vlog: newspaper perfume, playing cards and more.",
+   "link": "https://www.youtube.com/watch?v=77grn7e2bYE&t=1476s",
+   "media": [
+    {
+     "a": "mb_vlog_paris.jpg",
+     "t": "img",
+     "w": 640,
+     "h": 360
+    }
+   ]
+  },
+  {
+   "id": "mb-doc-kulit",
+   "title": "Brand Kulit Asal Sleman Tembus Pasar Internasional",
+   "title_en": "A Sleman Leather Brand Goes International",
+   "year": "2025",
+   "cat": "Dokumenter & Company Profile",
+   "sub": "",
+   "brand": "Master Bagasi",
+   "desc": "Dokumenter seri Local Go Global: Kay Leather dari Sleman menembus pasar internasional.",
+   "desc_en": "Local Go Global documentary: Kay Leather from Sleman reaching international markets.",
+   "link": "https://www.youtube.com/watch?v=WMNc4_jLYaM",
+   "media": [
+    {
+     "a": "mb_doc_kulit.jpg",
+     "t": "img",
+     "w": 640,
+     "h": 360
+    }
+   ]
+  },
+  {
+   "id": "mb-doc-maipeh",
+   "title": "Bisnis Rumahan Tembus Minimarket",
+   "title_en": "A Home Business That Made It to Minimarkets",
+   "year": "2025",
+   "cat": "Dokumenter & Company Profile",
+   "sub": "",
+   "brand": "Master Bagasi",
+   "desc": "Dokumenter Local Go Global: Maipeh Food, bisnis rumahan yang tembus minimarket.",
+   "desc_en": "Local Go Global documentary: Maipeh Food, a home business that reached minimarkets.",
+   "link": "https://www.youtube.com/watch?v=aLrv2-wiB_s",
+   "media": [
+    {
+     "a": "mb_doc_maipeh.jpg",
+     "t": "img",
+     "w": 640,
+     "h": 360
+    }
+   ]
+  },
+  {
+   "id": "mb-ikn",
+   "title": "After Movie: Ibu Kota Nusantara (IKN)",
+   "title_en": "After Movie: Nusantara Capital City (IKN)",
+   "year": "2025",
+   "cat": "Social Media Content",
+   "sub": "",
+   "brand": "Master Bagasi",
+   "desc": "After movie kegiatan di IKN, Kalimantan (30 Juli–4 Agustus 2025).",
+   "desc_en": "After movie of an event at IKN, Kalimantan (30 July–4 August 2025).",
+   "link": "https://drive.google.com/file/d/1GazduMOq16U-KN9hGHPMFqHClhn6S1sH/view",
+   "media": [
+    {
+     "a": "mb_ikn.jpg",
+     "t": "img",
+     "w": 1382,
+     "h": 776
+    }
+   ]
+  },
+  {
+   "id": "mb-sambal",
+   "title": "Sampai Paris Tetap Cari Sambal Bu Broto",
+   "title_en": "In Paris and Still Craving Sambal Bu Broto",
+   "year": "2025",
+   "cat": "Social Media Content",
+   "sub": "",
+   "brand": "Master Bagasi",
+   "desc": "Konten sosial media Master Bagasi untuk Instagram dan TikTok.",
+   "desc_en": "Master Bagasi social content for Instagram and TikTok.",
+   "link": "https://www.instagram.com/p/DZWli_JxrB_/",
+   "media": [
+    {
+     "a": "mb_soc_sambal.jpg",
+     "t": "img",
+     "w": 1080,
+     "h": 1920
+    }
+   ]
+  },
+  {
+   "id": "mb-hamzah",
+   "title": "Kata Pak Hamzah (Mini Series)",
+   "title_en": "Kata Pak Hamzah (Mini Series)",
+   "year": "2025",
+   "cat": "Social Media Content",
+   "sub": "",
+   "brand": "Master Bagasi",
+   "desc": "Mini series sosial media Master Bagasi, episode Warung Nanda.",
+   "desc_en": "Master Bagasi social mini series, Warung Nanda episode.",
+   "link": "https://www.instagram.com/reels/DQy6K2yCQt3/",
+   "media": [
+    {
+     "a": "mb_soc_hamzah.jpg",
+     "t": "img",
+     "w": 1080,
+     "h": 1920
+    }
+   ]
+  },
+  {
+   "id": "compro",
+   "title": "Company Profile",
+   "title_en": "Company Profile",
+   "year": "2025",
+   "cat": "Dokumenter & Company Profile",
+   "sub": "",
+   "brand": "",
+   "desc": "Video company profile: konsep, produksi, sampai editing.",
+   "desc_en": "Company profile video: concept, production and editing.",
+   "link": "https://www.youtube.com/watch?v=Nph7xBolklg",
+   "media": [
+    {
+     "a": "compro.jpg",
+     "t": "img",
+     "w": 1535,
+     "h": 698
+    }
+   ]
+  },
+  {
+   "id": "lazy-mooview",
+   "title": "Mooview: Michael B Jordan sama Michael A Jordan",
+   "title_en": "Mooview: Michael B Jordan vs Michael A Jordan",
+   "year": "2025",
+   "cat": "YouTube Content",
+   "sub": "",
+   "brand": "The Lazy Media",
+   "desc": "Konten YouTube Mooview: ngobrolin film Sinners. Editing sebagai freelance video editor.",
+   "desc_en": "Mooview YouTube episode about the film Sinners, edited as a freelance video editor.",
+   "link": "https://www.youtube.com/watch?v=kAvuYY9Od74",
+   "media": [
+    {
+     "a": "lazy_mooview.jpg",
+     "t": "img",
+     "w": 640,
+     "h": 357
+    }
+   ]
+  },
+  {
+   "id": "lazy-gadgets",
+   "title": "The Lazy Gadgets: Desain iPhone 17 Bikin Mual?",
+   "title_en": "The Lazy Gadgets: Does the iPhone 17 Design Make You Queasy?",
+   "year": "2025",
+   "cat": "YouTube Content",
+   "sub": "",
+   "brand": "The Lazy Media",
+   "desc": "Konten YouTube teknologi The Lazy Gadgets.",
+   "desc_en": "Tech YouTube content for The Lazy Gadgets.",
+   "link": "https://www.youtube.com/watch?v=m11mABEz_wU",
+   "media": [
+    {
+     "a": "lazy_gadgets.jpg",
+     "t": "img",
+     "w": 640,
+     "h": 360
+    }
+   ]
+  },
+  {
+   "id": "nexa-ent",
+   "title": "NEXA: Entertainment Content",
+   "title_en": "NEXA: Entertainment Content",
+   "year": "2024",
+   "cat": "Social Media Content",
+   "sub": "",
+   "brand": "NEXA",
+   "desc": "Konten hiburan sosial media NEXA: tema Natal, kerja enjoy, sampai parodi Squid Game.",
+   "desc_en": "NEXA entertainment social content: Christmas, work life and a Squid Game parody.",
+   "link": "https://www.instagram.com/p/DD_YCALPqWI/",
+   "media": [
+    {
+     "a": "nexa_ent_1.jpg",
+     "t": "img",
+     "w": 1080,
+     "h": 1920
+    },
+    {
+     "a": "nexa_ent_2.jpg",
+     "t": "img",
+     "w": 1080,
+     "h": 1920
+    },
+    {
+     "a": "nexa_ent_3.jpg",
+     "t": "img",
+     "w": 1080,
+     "h": 1920
+    }
+   ]
+  },
+  {
+   "id": "nexa-event",
+   "title": "NEXA: Event & After Movie",
+   "title_en": "NEXA: Event & After Movie",
+   "year": "2024",
+   "cat": "Social Media Content",
+   "sub": "",
+   "brand": "NEXA",
+   "desc": "Dokumentasi event dan after movie NEXA.",
+   "desc_en": "NEXA event coverage and after movies.",
+   "link": "https://www.instagram.com/p/C7iaSZcPD9M/",
+   "media": [
+    {
+     "a": "nexa_aftermovie.jpg",
+     "t": "img",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "a": "nexa_event.jpg",
+     "t": "img",
+     "w": 1080,
+     "h": 1920
+    }
+   ]
+  },
+  {
+   "id": "nexa-talk",
+   "title": "NEXA: Talking Head & AI Content",
+   "title_en": "NEXA: Talking Head & AI Content",
+   "year": "2024",
+   "cat": "Social Media Content",
+   "sub": "",
+   "brand": "NEXA",
+   "desc": "Konten talking head dan AI: tips fitur Instagram dan animasi pakai AI.",
+   "desc_en": "Talking-head and AI content: Instagram feature tips and AI animation.",
+   "link": "https://www.instagram.com/p/DD8ta45PaqQ/",
+   "media": [
+    {
+     "a": "nexa_talk_1.jpg",
+     "t": "img",
+     "w": 1080,
+     "h": 1920
+    },
+    {
+     "a": "nexa_talk_2.jpg",
+     "t": "img",
+     "w": 1080,
+     "h": 1920
+    }
+   ]
+  },
+  {
+   "id": "nexa-kol",
+   "title": "NEXA: KOL Content",
+   "title_en": "NEXA: KOL Content",
+   "year": "2024",
+   "cat": "Social Media Content",
+   "sub": "",
+   "brand": "NEXA",
+   "desc": "Konten kolaborasi KOL untuk kampanye wisata dan staycation.",
+   "desc_en": "KOL collaboration content for travel and staycation campaigns.",
+   "link": "https://www.instagram.com/p/DBdegZxv3wb/",
+   "media": [
+    {
+     "a": "nexa_kol_1.jpg",
+     "t": "img",
+     "w": 1080,
+     "h": 1920
+    },
+    {
+     "a": "nexa_kol_2.jpg",
+     "t": "img",
+     "w": 1080,
+     "h": 1920
+    }
+   ]
+  },
+  {
+   "id": "lanyah-unnatural",
+   "title": "Unnatural Drama",
+   "title_en": "Unnatural Drama",
+   "year": "2024",
+   "cat": "Film Pendek",
+   "sub": "",
+   "brand": "Lanyah Films",
+   "desc": "Film pendek Lanyah Films. Terpilih di Indonesia Raja 2024 (Minikino Program).",
+   "desc_en": "Lanyah Films short. Selected for Indonesia Raja 2024 (Minikino Program).",
+   "link": "https://www.instagram.com/reels/C5k3kSMyMRt/",
+   "media": [
+    {
+     "a": "lanyah_unnatural.jpg",
+     "t": "img",
+     "w": 1080,
+     "h": 1920
+    }
+   ]
+  },
+  {
+   "id": "lanyah-fans",
+   "title": "We Need More Fans in Summer!",
+   "title_en": "We Need More Fans in Summer!",
+   "year": "2023",
+   "cat": "Film Pendek",
+   "sub": "",
+   "brand": "Lanyah Films",
+   "desc": "Film pendek produksi Lanyah Films.",
+   "desc_en": "A short film produced by Lanyah Films.",
+   "link": "https://www.instagram.com/reels/Cv7izUSu9zT/",
+   "media": [
+    {
+     "a": "lanyah_fans.jpg",
+     "t": "img",
+     "w": 720,
+     "h": 405
+    }
+   ]
+  },
+  {
+   "id": "lanyah-happy",
+   "title": "If You're Happy",
+   "title_en": "If You're Happy",
+   "year": "2024",
+   "cat": "Film Pendek",
+   "sub": "",
+   "brand": "Lanyah Films",
+   "desc": "Film pendek produksi Lanyah Films.",
+   "desc_en": "A short film produced by Lanyah Films.",
+   "link": "https://www.instagram.com/reels/DBTXFR4yzNe/",
+   "media": [
+    {
+     "a": "lanyah_happy.jpg",
+     "t": "img",
+     "w": 720,
+     "h": 405
+    }
+   ]
+  },
+  {
+   "id": "sam",
+   "title": "Sudahkah Anda Menonton",
+   "title_en": "Sudahkah Anda Menonton",
+   "year": "2024",
+   "cat": "Komunitas Film",
+   "sub": "",
+   "brand": "Sudahkah Anda Menonton",
+   "desc": "Platform pemutaran film independen dan komunitas budaya yang didirikan dan dipimpin Faizal: pemutaran, diskusi, programming, dan konten.",
+   "desc_en": "An independent film screening and cultural platform Faizal founded and leads: screenings, discussions, programming and content.",
+   "link": "https://www.instagram.com/sudahkahandamenonton_/",
+   "media": [
+    {
+     "a": "sam_1.jpg",
+     "t": "img",
+     "w": 576,
+     "h": 576
+    },
+    {
+     "a": "sam_2.jpg",
+     "t": "img",
+     "w": 729,
+     "h": 912
+    },
+    {
+     "a": "sam_3.jpg",
+     "t": "img",
+     "w": 540,
+     "h": 540
+    }
+   ]
+  },
+  {
+   "id": "tvc",
+   "title": "TVC Production: IM3, McDonald's, Flimeal",
+   "title_en": "TVC Production: IM3, McDonald's, Flimeal",
+   "year": "2022",
+   "cat": "TVC Production",
+   "sub": "",
+   "brand": "",
+   "desc": "(Intern) Assistant Director untuk iklan televisi IM3, McDonald's, dan Flimeal.",
+   "desc_en": "(Intern) Assistant Director on TV commercials for IM3, McDonald's and Flimeal.",
+   "link": "https://www.youtube.com/playlist?list=PLFwxyHASSY6rTzLqhB-4AlMO-XYk8YpPK",
+   "media": [
+    {
+     "a": "tvc_playlist.jpg",
+     "t": "img",
+     "w": 1042,
+     "h": 533
+    }
+   ]
+  }
+ ],
+ "travelLead": "",
+ "travel": [],
+ "tools": [
+  {
+   "g": "Create",
+   "g_en": "Create",
+   "items": [
+    {
+     "n": "Adobe Premiere Pro",
+     "a": "tool_pr.png"
+    },
+    {
+     "n": "Adobe After Effects",
+     "a": "tool_ae.png"
+    },
+    {
+     "n": "CapCut Pro",
+     "a": "tool_capcut3.png"
+    }
+   ]
+  },
+  {
+   "g": "Capture",
+   "g_en": "Capture",
+   "items": [
+    "Videography",
+    "Cinematography",
+    "Directing",
+    "Lighting"
+   ]
+  },
+  {
+   "g": "Craft",
+   "g_en": "Craft",
+   "items": [
+    "Color Grading",
+    "Sound Design",
+    "Motion Graphics"
+   ]
+  },
+  {
+   "g": "Think",
+   "g_en": "Think",
+   "items": [
+    "Creative Direction",
+    "Content Strategy",
+    "Visual Storytelling"
+   ]
+  }
+ ],
+ "logos": [
+  {
+   "name": "Master Bagasi",
+   "a": ""
+  },
+  {
+   "name": "NEXA",
+   "a": ""
+  },
+  {
+   "name": "The Lazy Media",
+   "a": ""
+  },
+  {
+   "name": "Lanyah Films",
+   "a": ""
+  },
+  {
+   "name": "Sudahkah Anda Menonton",
+   "a": ""
+  },
+  {
+   "name": "IM3",
+   "a": ""
+  },
+  {
+   "name": "McDonald's",
+   "a": ""
+  },
+  {
+   "name": "Flimeal",
+   "a": ""
+  }
+ ]
+}
