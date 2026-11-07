@@ -16,6 +16,26 @@
  },
  "works": [
   {
+   "id": "wmw62cwz243aa",
+   "title": "New Year Seasonal Hotel Campaign",
+   "title_en": "New Year Seasonal Hotel Campaign",
+   "year": "2025",
+   "cat": "Social Media Content",
+   "sub": "",
+   "brand": "New Puri Garden Hotel",
+   "desc": "",
+   "desc_en": "",
+   "link": "https://www.instagram.com/p/DSM4I66DU2u/",
+   "media": [
+    {
+     "a": "mw62ct1u_599434224-17988286592864291-478212441829.jpg",
+     "t": "img",
+     "w": 540,
+     "h": 960
+    }
+   ]
+  },
+  {
    "id": "mb-hemat",
    "title": "Semakin Hemat, Semakin Rekat di Negeri Orang",
    "title_en": "Saving More, Closer Abroad",
@@ -236,6 +256,26 @@
    ]
   },
   {
+   "id": "mb-sambal",
+   "title": "Sampai Paris Tetap Cari Sambal Bu Broto",
+   "title_en": "In Paris and Still Craving Sambal Bu Broto",
+   "year": "2025",
+   "cat": "Social Media Content",
+   "sub": "",
+   "brand": "Master Bagasi",
+   "desc": "Konten sosial media Master Bagasi untuk Instagram dan TikTok.",
+   "desc_en": "Master Bagasi social content for Instagram and TikTok.",
+   "link": "https://www.instagram.com/p/DZWli_JxrB_/",
+   "media": [
+    {
+     "a": "mb_soc_sambal.jpg",
+     "t": "img",
+     "w": 1080,
+     "h": 1920
+    }
+   ]
+  },
+  {
    "id": "mb-doc-maipeh",
    "title": "Bisnis Rumahan Tembus Minimarket",
    "title_en": "A Home Business That Made It to Minimarkets",
@@ -272,26 +312,6 @@
      "t": "img",
      "w": 1382,
      "h": 776
-    }
-   ]
-  },
-  {
-   "id": "mb-sambal",
-   "title": "Sampai Paris Tetap Cari Sambal Bu Broto",
-   "title_en": "In Paris and Still Craving Sambal Bu Broto",
-   "year": "2025",
-   "cat": "Social Media Content",
-   "sub": "",
-   "brand": "Master Bagasi",
-   "desc": "Konten sosial media Master Bagasi untuk Instagram dan TikTok.",
-   "desc_en": "Master Bagasi social content for Instagram and TikTok.",
-   "link": "https://www.instagram.com/p/DZWli_JxrB_/",
-   "media": [
-    {
-     "a": "mb_soc_sambal.jpg",
-     "t": "img",
-     "w": 1080,
-     "h": 1920
     }
    ]
   },
