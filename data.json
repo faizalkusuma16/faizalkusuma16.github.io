@@ -16,6 +16,46 @@
  },
  "works": [
   {
+   "id": "wmwi0k6ciamhh",
+   "title": "Master Bagasi Talking Head Content",
+   "title_en": "Master Bagasi Talking Head Content",
+   "year": "2026",
+   "cat": "Social Media Content",
+   "sub": "",
+   "brand": "Master Bagasi",
+   "desc": "",
+   "desc_en": "",
+   "link": "https://www.instagram.com/reel/Dfrg3ukJQZ7/",
+   "media": [
+    {
+     "a": "mwi0iyjd_903981157-1590924153079480-1785263182946.jpg",
+     "t": "img",
+     "w": 360,
+     "h": 640
+    }
+   ]
+  },
+  {
+   "id": "wmwi0fut5f5hg",
+   "title": "FnB Content Visit",
+   "title_en": "FnB Content Visit",
+   "year": "2026",
+   "cat": "Social Media Content",
+   "sub": "",
+   "brand": "Hafa Coffee",
+   "desc": "",
+   "desc_en": "",
+   "link": "https://www.instagram.com/p/DcbPUE2pLqv/",
+   "media": [
+    {
+     "a": "mwi0fbjy_786070135-18064770836589013-414050120358.jpg",
+     "t": "img",
+     "w": 1215,
+     "h": 2160
+    }
+   ]
+  },
+  {
    "id": "wmw9flnyvfr79",
    "title": "Cave Social Media Content",
    "title_en": "Cave Social Media Content",
@@ -831,6 +871,10 @@
   },
   {
    "name": "Studiokado",
+   "a": null
+  },
+  {
+   "name": "Bentala Studio Indonesia",
    "a": null
   }
  ]
